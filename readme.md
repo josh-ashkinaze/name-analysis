@@ -2,6 +2,8 @@
 
 In this analysis, I took a look at baby names going back to the 1800s. This project involved a lot of data wrangling, and some clever metric-making (What does it mean for a year to have unique names?)
 
+[See my blog for a writeup](https://www.joshash.space/data-science/names-analysis) 
+
 
 ## My Questions
 
