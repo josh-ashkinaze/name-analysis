@@ -20,6 +20,11 @@ In this analysis, I took a look at baby names going back to the 1800s. This proj
 
 * During economic contractions, names become less unique. 
 
+## Files
+
+* `name_data.zip` is a zip file containing: text files of names at the yearly level, a script to merge these files into one file (`merge_files.py`), and the merged file (`merged.csv`) 
+
+* `name-analysis.ipynb` is my python notebook of analysis
 
 
 
