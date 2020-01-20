@@ -11,7 +11,6 @@ In this analysis, I took a look at baby names going back to the 1800s. This proj
 
 * How do names change during economic growth or contraction periods?
 
-To answer these questions, I use exploratory analysis and a heteroskedasticity-robust fixed effect OLS model. 
 
 ## My Findings
 
