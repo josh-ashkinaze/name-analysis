@@ -2,7 +2,6 @@
 
 In this analysis, I took a look at baby names going back to the 1800s. This project involved a lot of data wrangling, and some clever metric-making (What does it mean for a year to have unique names?)
 
-[Read my blog](https://www.joshash.space/data-science/the-most-important-aspect-of-coffee) for a write-up, and look at the ipynb notebook for analysis! 
 
 ## My Questions
 
